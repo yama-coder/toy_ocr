@@ -2,3 +2,6 @@ data
 results
 tmp*
 temp*
+*.jpg
+*.png
+fonts
